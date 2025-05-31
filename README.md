@@ -7,5 +7,5 @@ Some types of models used:
 * Recurrent Neural Netowrks (RNN) for i.e. natural language and speech recognition
 
 Common tech stack used:
-* Programming language(s): Python, JavaScript
+* Programming language(s): Python
 * Framework(s) used: Tensorflow, PyTorch, XGBoost (depending if CPU or GPU is used)
